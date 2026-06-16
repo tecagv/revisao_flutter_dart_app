@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Fone Bluetooth Didático",
+    "price": 129.90,
+    "stock": 8,
+    "shortDescription": "Fone para revisar cards, listas e carrinho.",
+    "longDescription": "Produto usado para estudar leitura de JSON, exibição em ListView, tela de detalhes e validação de estoque.",
+    "iconCodePoint": 58167
+  },
+  {
+    "id": 2,
+    "name": "Mini Teclado USB",
+    "price": 89.50,
+    "stock": 5,
+    "shortDescription": "Item ideal para exercitar quantidade e subtotal.",
+    "longDescription": "Produto usado para revisar regras de carrinho, cálculo de subtotal, frete, impostos e total do pedido.",
+    "iconCodePoint": 57944
+  },
+  {
+    "id": 3,
+    "name": "Mouse Sem Fio",
+    "price": 64.99,
+    "stock": 12,
+    "shortDescription": "Produto simples para testar adição e remoção.",
+    "longDescription": "Produto usado para revisar funções, classes, objetos e métodos de atualização de estado no aplicativo Flutter.",
+    "iconCodePoint": 58149
+  },
+  {
+    "id": 4,
+    "name": "Carregador USB-C",
+    "price": 74.90,
+    "stock": 3,
+    "shortDescription": "Produto com baixo estoque para validar limites.",
+    "longDescription": "Produto usado para mostrar que uma aplicação precisa proteger o usuário contra compras acima do estoque disponível.",
+    "iconCodePoint": 58625
+  },
+  {
+    "id": 5,
+    "name": "Suporte para Smartphone",
+    "price": 39.90,
+    "stock": 10,
+    "shortDescription": "Produto de apoio para estudo de layout.",
+    "longDescription": "Produto usado para revisar Column, Row, Card, Padding, Text, Icon e organização visual da interface.",
+    "iconCodePoint": 59538
+  }
+]

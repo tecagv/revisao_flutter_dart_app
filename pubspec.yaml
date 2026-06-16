@@ -1,0 +1,24 @@
+name: revisao_flutter_dart_app
+description: Aplicativo didático de revisão de Flutter e Dart para ensino médio técnico.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # O projeto foi mantido sem pacotes externos para facilitar a execução em sala.
+  # Os recursos de câmera, sensores, GPS e SMS aparecem como módulo de revisão conceitual.
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/products.json
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
